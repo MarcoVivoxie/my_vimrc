@@ -1,7 +1,7 @@
 # my_vimrc
 
 This is nothing more than a particular configuration.
-But the complete configuration is from [amix/vimrc](https://github.com/amix/vimrc)
+But the complete setup is from [amix/vimrc](https://github.com/amix/vimrc)
 
 ## My own configuration
 I'm only adding the files in which I've edited / added some lines of configuration for my own purposes.
