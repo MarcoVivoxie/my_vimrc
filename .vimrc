@@ -10,6 +10,14 @@ source ~/.vim_runtime/my_configs.vim
 catch
 endtry
 
+set encoding=utf-8
+set t_Co=256
+
+set cursorline
+
+set tabstop=4 softtabstop=0 expandtab shiftwidth=4 smarttab
+set backspace=indent,eol,start
+
 " set number lines. When in NORMAL mode is absolute number. When in INSERT
 " isrelative number.
 set number
